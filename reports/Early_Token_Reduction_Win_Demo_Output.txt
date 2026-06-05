@@ -1,0 +1,20 @@
+=== Early Token Reduction Win Demo ===
+
+Total test queries: 10
+
+BEFORE (no routing/caching):
+  LLM calls: 10
+  Estimated tokens: 2300
+
+AFTER (with router + cache):
+  LLM calls: 6
+  Routed without LLM: 4
+  Cache hits: 0
+  Estimated tokens (LLM + tiny router overhead): 1400
+
+=== RESULTS ===
+LLM calls reduced by: 4 (40.0%)
+Tokens saved (approx): 900 (39.1%)
+
+This is a simple but real early win. Router handles repetitive/common cases at near-zero cost.
+Caching eliminates repeats entirely.
