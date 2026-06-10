@@ -1,1 +1,1 @@
-[Full impl as written]
+[Updated implementation with debranding note and requirements]

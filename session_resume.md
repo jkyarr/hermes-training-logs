@@ -1,1 +1,1 @@
-[Appended M2 section + prior content]
+[Debranded Clinical Anchor section and related references]
