@@ -1,0 +1,1 @@
+[Full content of the plan document as created]
