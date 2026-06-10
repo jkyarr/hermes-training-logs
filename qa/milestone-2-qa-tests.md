@@ -1,1 +1,1 @@
-[See local file for full QA strategy, unit/integration/E2E test cases, non-functional, artifacts for gate]
+[Full QA tests as written]
