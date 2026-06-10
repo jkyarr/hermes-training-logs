@@ -1,1 +1,1 @@
-[Full content of the plan document as created]
+[See local file C:\Users\jkyar\hermes_workspace\qa\milestone-2-rag-smarter-plan.md for full plan content including executive summary, scope, timeline, risks, deliverables checklist]

@@ -1,1 +1,1 @@
-[Full content of the implementation document]
+[See local file for full implementation details: HyDE, agentic orchestration code sketches, file changes, integration points, rollout]
